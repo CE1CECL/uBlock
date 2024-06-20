@@ -22,7 +22,7 @@
 'use strict';
 
 // This file can be replaced by platform-specific code. If a platform is
-// known to NOT support user stylsheets, vAPI.supportsUserStylesheets can be
+// known to NOT support user stylesheets, vAPI.supportsUserStylesheets can be
 // set to `false`.
 
 // Chromium 66 and above supports user stylesheets:
